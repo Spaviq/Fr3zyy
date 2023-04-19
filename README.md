@@ -10,10 +10,10 @@
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,nodejs,html,css,vscode,discord&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=githubadresiniz&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Fr3zyy&show_icons=true&theme=dark" />
 
 <h1> :gem: My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Fr3zyy&theme=onedark" />
