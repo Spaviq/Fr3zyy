@@ -2,9 +2,7 @@
 - Adım Veli 14 yaşındayım
 - 2.5 Yıldır yazılım ve kodlama ile uğraşıyorum. [html , css, C#]
 - Discord adresim: Fr3zyy.cs#0001, [discord.gg/gPVTxAPncX](davet link)
-- Web Sitem: https://shorthaired-bow-scarecrow.glitch.me
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
-- Everything you can imagine is real -
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
