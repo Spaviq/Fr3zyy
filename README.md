@@ -1,5 +1,5 @@
 # Selam dostlarım
-- Adım Veli 14 yaşındayım
+- Merhaba Ben Fr3zy 15 yaşındayım
 - 2.5 Yıldır yazılım ve kodlama ile uğraşıyorum. [html , css, C#]
 - Discord adresim: Fr3zyy.cs#0001, [discord.gg/gPVTxAPncX](davet link)
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
