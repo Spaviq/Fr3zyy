@@ -1,7 +1,7 @@
 # Selam dostlarım
 - Merhaba Ben Fr3zy 15 yaşındayım
 - 2.5 Yıldır yazılım ve kodlama ile uğraşıyorum. [html , css, C#]
-- Discord adresim: Fr3zyy.cs#5009, [discord.gg/gPVTxAPncX](davet link)
+- Discord adresim: fr3zyy, [[discord.gg/d4a9Knkd8z](https://discord.gg/d4a9Knkd8z)](davet link)
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
