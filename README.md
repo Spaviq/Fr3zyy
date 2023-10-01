@@ -1,1 +1,3 @@
-sa xd
+```csharp
+Console.WriteLine("s.a ben Fr3zy);
+```
