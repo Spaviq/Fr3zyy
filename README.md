@@ -1,3 +1,1 @@
-```csharp
-Console.WriteLine("s.a ben Fr3zy);
-```
+v1.0.0
